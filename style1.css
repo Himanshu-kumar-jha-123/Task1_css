@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+.Hello{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding-bottom: 8px;
+}
+h3{
+    margin-top: 0;
+    padding-top: 6px;
+}
+h2{
+    color: blue;
+    padding-left: 6px;
+}
+#Hello1{
+    width: 60%;
+    margin-left: 6px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-width: 1px solid;
+}
+.Hello2{
+    border: 1px solid;
+    margin-left: 6px;
+    margin-right: 6px;
+    padding-left: 6px;
+    
+}
+.Hello3{
+    text-align: center;
+}
+.Hello4{
+    margin-left: 400px;
+}
+input[type=text]{
+    width: 40%;
+    padding-left: 6px;
+}
+input[type=email]{
+    width: 40%;
+    margin-top: 8px;
+    padding-left: 6px;
+}
+textarea{
+    margin-top: 8px;
+    padding-left: 6px;
+}
+input[type=submit]{
+    margin-left: 400px;
+    margin-top: 8px;
+    width: 25%;
+    color: white;
+    padding-left: 6px;
+    background-color: blue;
+    margin-bottom: 6px;
+}
